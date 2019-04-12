@@ -1,0 +1,10 @@
+C:\Users\Wojtek\Desktop\Kredek\lab2\WojciechRatajczakZad2\ZadDom\bin\Debug\ZadDom.exe.config
+C:\Users\Wojtek\Desktop\Kredek\lab2\WojciechRatajczakZad2\ZadDom\bin\Debug\ZadDom.exe
+C:\Users\Wojtek\Desktop\Kredek\lab2\WojciechRatajczakZad2\ZadDom\bin\Debug\ZadDom.pdb
+C:\Users\Wojtek\Desktop\Kredek\lab2\WojciechRatajczakZad2\ZadDom\obj\Debug\WojciechRatajczakZad2.csprojAssemblyReference.cache
+C:\Users\Wojtek\Desktop\Kredek\lab2\WojciechRatajczakZad2\ZadDom\obj\Debug\ZadDom.Kopalnia.resources
+C:\Users\Wojtek\Desktop\Kredek\lab2\WojciechRatajczakZad2\ZadDom\obj\Debug\ZadDom.Properties.Resources.resources
+C:\Users\Wojtek\Desktop\Kredek\lab2\WojciechRatajczakZad2\ZadDom\obj\Debug\WojciechRatajczakZad2.csproj.GenerateResource.cache
+C:\Users\Wojtek\Desktop\Kredek\lab2\WojciechRatajczakZad2\ZadDom\obj\Debug\WojciechRatajczakZad2.csproj.CoreCompileInputs.cache
+C:\Users\Wojtek\Desktop\Kredek\lab2\WojciechRatajczakZad2\ZadDom\obj\Debug\ZadDom.exe
+C:\Users\Wojtek\Desktop\Kredek\lab2\WojciechRatajczakZad2\ZadDom\obj\Debug\ZadDom.pdb
